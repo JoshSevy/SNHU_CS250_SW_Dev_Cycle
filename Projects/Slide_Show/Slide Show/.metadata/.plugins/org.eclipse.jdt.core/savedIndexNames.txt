@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joshuasevy/JavaProjects/Slide Show/.metadata/.plugins/org.eclipse.jdt.core
+132616596.index
+1865797976.index
+3247689309.index
